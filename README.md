@@ -1,5 +1,5 @@
-- Olá, meu nome é Ricardo! Atualmente estou cursando o segundo período do curso de Bacharelado em Sistemas de Informação pela Universidade Federal do Rio Grande do Norte;
-- Já realizei alguns projetos em linguagem C e estou desenvolvendo alguns projetos em Dart;
+- Olá, meu nome é Ricardo! Atualmente estou cursando o terceiro período do curso de Bacharelado em Sistemas de Informação pela Universidade Federal do Rio Grande do Norte;
+- Já realizei alguns projetos em diferentes linguagens, como C, PHP e Dart;
 - Tenho conhecimentos e já trabalho com as linguagem PHP, HTML, CSS, MySQL, além de utilizar também o framework bootstrap e o wordpress.
 
 <!---
