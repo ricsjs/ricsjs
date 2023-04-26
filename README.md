@@ -1,11 +1,47 @@
-- Olá, meu nome é Ricardo! Atualmente estou cursando o terceiro período do curso de Bacharelado em Sistemas de Informação pela Universidade Federal do Rio Grande do Norte;
-- Já realizei alguns projetos em diferentes ferramentas, como PHP, HTML, CSS, ReactJS, Bootstrap e WordPress;
-- Atualmente tenho como preferência o desenvolvimento Front-End, porém, atuo como desenvolvedor Full Stack na Agência Interage;
-- Tenho conhecimentos e já trabalho com as linguagens PHP, HTML, CSS, MySQL, além de utilizar também o framework bootstrap e o wordpress;
-- Estou diariamente interagindo com a comunidade, seja no LinkedIn ou grupos e trocando conhecimentos sobre o mercado;
-- Atualmente busco novas oportunidas com uma equipe que tenha objetivos bem definidos para crescer junto
-e me especializar cada dia mais no desenvolvimento web.
-<!---
-ricsjs/ricsjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  
+  <h1 align="center">
+    Olá, tudo bem? Eu sou o
+    <a href="https://www.linkedin.com/in/ricardo-alencar-43907420b/" target="_blank">Ricardo Alencar 😃️</a>
+  </h1>
+  
+  <p align="center">
+    Sou Desenvolvedor Full Stack com foco em Front End e gosto muito de compartilhar meu conhecimento e aprendizado aqui no GitHub 
+  </p>
+  
+</div>
+
+<div align="center">
+  <a href="https://github.com/duribeiro">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ricsjs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricsjs&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  
+  
+  
+  
+</div><br>
+
+<div align="center">
+  <a href="https://ricdev.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23E4405F?style=for-the-badge&logo=web&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ricardo-alencar-43907420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=web&logoColor=blue" target="_blank"></a>
+</div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
