@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Full Stack com foco em Front End e gosto muito de compartilhar meu conhecimento e aprendizado aqui no GitHub 
+    Sou Desenvolvedor Full Stack e gosto muito de compartilhar meu conhecimento e aprendizado aqui no GitHub 
   </p>
   
 </div>
@@ -24,6 +24,7 @@
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="GoLang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
   
   
   
