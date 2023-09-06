@@ -36,9 +36,3 @@
   <a href="https://www.linkedin.com/in/ricardo-alencar-43907420b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23E4405F?style=for-the-badge&logo=web&logoColor=blue" target="_blank"></a>
 </div>
 
-<div align="center">
-
-  ![snake animation](https://github.com/<ricsjs>/<ricsjs>/blob/output/github-contribution-grid-snake2.svg)
-  
-</div>
-
