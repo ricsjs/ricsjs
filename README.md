@@ -1,12 +1,12 @@
 <div>
   
   <h1 align="center">
-    Olá, tudo bem? Eu sou o
+      Hi, I'm
     <a href="https://www.linkedin.com/in/ricardo-alencar-43907420b/" target="_blank">Ricardo Alencar 😃️</a>
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor Full Stack e gosto muito de compartilhar meu conhecimento e aprendizado aqui no GitHub 
+    Golang and React software developer. 
   </p>
   
 </div>
