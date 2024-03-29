@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Golang and React software developer. 
+    Fullstack developer. 
   </p>
   
 </div>
